@@ -22,7 +22,7 @@ An Anthropic API Key
 Installation
 Bash
 # Clone the repository
-git clone https://github.com/yourusername/agentic-lit-reviewer
+git clone https://github.com/Arushi3154/agentic-lit-reviewer
 cd agentic-lit-reviewer
 
 # Install dependencies
