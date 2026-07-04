@@ -15,7 +15,7 @@ Summarizer: Downloads abstracts (and full text where available), creating struct
 Embedder: Stores paper data in a Chroma vector database for efficient semantic retrieval.
 Comparator: Retrieves papers from the database to perform cross-paper method analysis.
 Writer: Synthesizes the aggregated data into a structured Markdown literature review.
-📦 Getting Started
+ Getting Started
 Prerequisites
 Python 3.10+
 An Anthropic API Key
