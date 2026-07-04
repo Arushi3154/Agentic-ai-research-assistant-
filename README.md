@@ -1,7 +1,7 @@
 # Agentic-ai-research-assistant-
 Agentic Literature Reviewer
 This project leverages LangGraph, Claude API, and arXiv API to create an autonomous research assistant. It automates the end-to-end process of literature discovery, content synthesis, and report generation.
-🚀 Overview
+Overview
 The Agentic Literature Reviewer is designed to transform a broad research topic into a structured, academic-style literature review. It performs iterative searches, filters relevant papers, vectorizes content using Chroma, and utilizes Claude's reasoning capabilities to compare methodologies and synthesize findings.
 🛠 Tech Stack
 Orchestration: LangGraph (for stateful, multi-step agent workflows)
