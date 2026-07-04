@@ -31,7 +31,7 @@ Configuration
 Create a .env file in the root directory and add your credentials:
 Code snippet
 ANTHROPIC_API_KEY=your_claude_api_key_here
-🚀 Usage
+ Usage
 To initiate a literature review, run the main entry point:
 Bash
 python main.py --topic "Attention mechanisms in Transformers" --limit 5
