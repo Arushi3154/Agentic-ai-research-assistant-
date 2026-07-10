@@ -44,7 +44,7 @@ References
 Autonomous Iteration: If the initial search yields poor results, the agent is configured to refine its query automatically.
 Methodological Comparison: Rather than just summarizing, the agent uses RAG to extract specific technical comparisons across papers.
 Extensible Design: Easily swap arXiv for other research databases (e.g., Semantic Scholar or PubMed) by modifying the Searcher node.
-📝 Roadmap
+ Roadmap
 [ ] Add support for local PDF ingestion.
 [ ] Integrate graph visualization to show paper relationships.
 [ ] Export reports to LaTeX/PDF format.
