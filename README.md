@@ -40,7 +40,7 @@ Executive Summary
 Methodology Comparison Table
 Key Findings
 References
-🔑 Key Features
+ Key Features
 Autonomous Iteration: If the initial search yields poor results, the agent is configured to refine its query automatically.
 Methodological Comparison: Rather than just summarizing, the agent uses RAG to extract specific technical comparisons across papers.
 Extensible Design: Easily swap arXiv for other research databases (e.g., Semantic Scholar or PubMed) by modifying the Searcher node.
